@@ -44,3 +44,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Task1: [NA-003] Install husky eslint airbnb rules
+https://www.npmjs.com/package/typescript-react
+npx typescript-react
+
+npm install eslint --save-dev
+npx eslint --init
+
+https://typescript-eslint.io/getting-started
+npm i --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb-typescript eslint-plugin-jest
+
+https://www.npmjs.com/package/eslint-config-airbnb
+<!-- npm install eslint-config-airbnb —-save-dev
+npx install-peerdeps --dev eslint-config-airbnb
+"extends": ["airbnb", "airbnb/hooks"] to your .eslintrc. -->
+https://www.npmjs.com/package/lint-staged
+<!-- npx mrm@2 lint-staged -->
